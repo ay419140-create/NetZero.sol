@@ -18,6 +18,7 @@ Our vision is to democratize access to carbon offsetting and create a transparen
 
 ## Key Features
 
+
 ### 🌱 **Carbon Credit Tokenization**
 - Convert verified CO2 offsets into tradeable NFTs
 - Each token represents a specific amount of CO2 offset with full provenance
